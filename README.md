@@ -3,6 +3,6 @@
 <img src="imgs/jogo.png"></img>
 
 # Descriçao:
-Projeto interiro em JavaScript, html e css,
+Projeto inteiro em JavaScript, html e css.
 
-Para jogar aperte qualque botão do seu teclado!
+Para jogar aperte qualquer botão do seu teclado!
